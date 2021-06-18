@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: esfand999@gmail.com
 
+![View Counter](https://gpvc.arturio.dev/esfand999)
+
+
 --------
 
 ## &#x1f4c8; My GitHub Stats
