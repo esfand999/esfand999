@@ -1,10 +1,11 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Esfandyar!
+![View Counter](https://gpvc.arturio.dev/esfand999)
 
+
+- :wave: Hi there, I am Esfandyar!
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: esfand999@gmail.com
 
-![View Counter](https://gpvc.arturio.dev/esfand999)
 
 
 --------
