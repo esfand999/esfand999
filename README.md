@@ -5,7 +5,7 @@
 
 - :wave: Hi there, I am Esfandyar!
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native and Machine Learning
 - 📫 How to reach me: esfand999@gmail.com
 
 
