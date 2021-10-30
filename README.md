@@ -1,15 +1,15 @@
 ![View Counter](https://gpvc.arturio.dev/esfand999)
 
 --------
-
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+<br>
 
 - :wave: Hi there, I am Esfandyar!
 - 👀 I’m interested in Mobile App Development and Game Development
 - 🌱 I’m currently learning MERN Stack and Machine Learning
 
-
+<br>
 
 --------
 
