@@ -14,10 +14,11 @@
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esfand999&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esfand999&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=esfand999&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![esfand999's GitHub stats](https://github-readme-stats.vercel.app/api?username=esfand999&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=esfand999&theme=gruvbox" alt="esfand999 streak"  />
 
 --------
 
@@ -35,7 +36,6 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-
 
 --------
 
