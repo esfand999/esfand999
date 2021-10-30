@@ -7,7 +7,6 @@
 - :wave: Hi there, I am Esfandyar!
 - 👀 I’m interested in Mobile App Development and Game Development
 - 🌱 I’m currently learning MERN Stack and Machine Learning
-- 📫 How to reach me: esfand999@gmail.com
 
 
 
@@ -15,16 +14,14 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esfand999&hide=php,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esfand999&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=esfand999&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 --------
 
-🧰 Toolbox
-
-### Languages and Tools 🛠 
+### 🧰 Toolbox
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=cplusplus&logoColor=ffffff)
@@ -42,7 +39,7 @@
 
 --------
 
-## 🙋‍♀️ Let's Connect
+### 📫 Let's Connect
 <p align="center">
 <!--   <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:esfand999@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
@@ -54,6 +51,7 @@
 	
 </p>
 
+--------
 <!---
 esfand999/esfand999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
