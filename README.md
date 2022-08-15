@@ -6,8 +6,8 @@
 <br>
 
 - :wave: Hi there, I am Esfandyar!
-- 👀 I’m interested in Mobile App Development and Game Development
-- 🌱 I’m currently learning MERN Stack and Machine Learning
+- 👀 I’m interested in Game Design and Development
+- 🌱 I’m currently learning Unity 3D
 
 <br>
 
@@ -47,7 +47,7 @@
 	<a href="https://github.com/esfand999"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/esfandyar-ali-khan"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/esfand999"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.twitter.com/esfand999"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://www.twitter.com/esfand999"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
 	<a href="https://instagram.com/e.s.f.a.n.d.y.a.r"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 <!-- 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 	
